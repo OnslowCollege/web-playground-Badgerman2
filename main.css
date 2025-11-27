@@ -9,7 +9,7 @@ horizon pic2.jpg {
   width: 33%;
 }
 
-#navbar {
+navbar {
   color: white;
   position: fixed;
     top: 0;
@@ -21,4 +21,9 @@ horizon pic2.jpg {
     justify-content: flex-end;
     z-index: 1;
     overflow: hidden;
+}
+
+nav {
+    display: block;
+    unicode-bidi: isolate;
 }
