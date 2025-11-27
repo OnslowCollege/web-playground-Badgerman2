@@ -9,12 +9,13 @@ horizon pic2.jpg {
   width: 33%;
 }
 
-navbar {
+#navbar {
+  color: white;
   position: fixed;
     top: 0;
     left: 0;
     right: 0;
-    background-color: (--main-cyan);
+    background-color: black;
     display: flex;
     align-items: center;
     justify-content: flex-end;
