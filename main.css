@@ -14,5 +14,7 @@ horizon pic2.jpg {
 nav {
     display: block;
     unicode-bidi: isolate;
-    
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
